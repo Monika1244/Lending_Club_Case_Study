@@ -16,11 +16,17 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 Process Steps
+
 Step 1: Understanding the Data
+
 Step 2: Data Cleaning 
+
 Step 3: Univariate Analysis
+
 Step 4: Bivariate/Multivariate Analysis
+
 Step 5: Results
+
 
 **Contributors**
   Monika Siluveru,
