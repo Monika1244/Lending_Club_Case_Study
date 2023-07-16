@@ -23,7 +23,7 @@ Step 4: Bivariate/Multivariate Analysis
 Step 5: Results
 
 **Contributors**
-  Monika Siluveru
+  Monika Siluveru,
   Ramya Devarajan
 
 
